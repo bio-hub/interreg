@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Interreg Dermatolocial Service Description</title>
-    <link>http://example.org/</link>
+    <link>http://davinci.biohub.solutions/interreg/</link>
     <description>Recent content on Interreg Dermatolocial Service Description</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://davinci.biohub.solutions/interreg/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
